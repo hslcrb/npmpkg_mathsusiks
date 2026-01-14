@@ -21,6 +21,7 @@ console.log(`Mean: ${math.mean(data)} (Expected: 30)`);
 console.log(`StdDev: ${math.stdDev(data)} (Expected: ~14.14)`);
 
 // Test Calculus / 미적분 테스트
+/** @param {number} x */
 const f = (x) => x * x;
 console.log(`Derivative of x^2 at x=2: ${derivative(f, 2)} (Expected: ~4)`);
 console.log(`Integral of x^2 from 0 to 3: ${math.integrate(f, 0, 3)} (Expected: ~9)`);
