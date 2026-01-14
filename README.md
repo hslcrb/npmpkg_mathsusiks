@@ -1,6 +1,6 @@
 # MathSusiks 📐 - The Universal Math Library
 
-![MathSusiks Banner](./mathsusiks_banner.png)
+![MathSusiks Banner](./logo.png)
 
 **MathSusiks** is the **most versatile and easy-to-use** mathematical library for JavaScript. From simple addition to complex engineering, finance, physics, random simulations, date calculations, and even security hashing—**all with just a few words.**
 
