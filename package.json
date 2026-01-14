@@ -1,0 +1,24 @@
+{
+  "name": "mathsusiks",
+  "version": "1.0.0",
+  "description": "Comprehensive mathematics library for basic arithmetic and advanced engineering formulas. Supports bilingual documentation. / 기초 사칙연산부터 고급 공학식까지 지원하는 종합 수학 라이브러리입니다. 한영 병기 문서를 지원합니다.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": [
+    "math",
+    "engineering",
+    "arithmetic",
+    "calculus",
+    "formula",
+    "mathsusiks"
+  ],
+  "author": "Rheehose (Rhee Creative)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rheehose/mathsusiks"
+  }
+}
